@@ -6,7 +6,7 @@ metadata:
   labels:
     app: test-repo
   name: test-repo
-  namespace: default
+  namespace: snk
   resourceVersion: "168704"
   uid: c82b3bd0-2ebe-4dbd-b50e-48ad158a6a74
 spec:

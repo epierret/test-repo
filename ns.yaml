@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  creationTimestamp: "2026-07-03T21:33:02Z"
+  labels:
+    kubernetes.io/metadata.name: snk
+  name: snk
+  resourceVersion: "169276"
+  uid: 0c92427c-82db-49b4-8800-e8cdd0b90715
+spec:
+  finalizers:
+  - kubernetes
+status:
+  phase: Active
